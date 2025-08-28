@@ -1,6 +1,6 @@
 # Komal Kumari - Academic Website
 
-A professional academic website for Komal Kumari, PhD student in Computer Science at New Jersey Institute of Technology, specializing in secure data processing and information-theoretic security.
+A professional academic website for Komal Kumari, PhD Candidate in Computer Science at New Jersey Institute of Technology, specializing in secure data processing and information-theoretic security.
 
 ## 🌟 Features
 
@@ -22,10 +22,6 @@ komal-website/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- A GitHub account
-- Git installed on your computer (optional, can use GitHub web interface)
-- A text editor (VS Code, Atom, etc.) for customization
 
 ## 📊 Website Sections
 
